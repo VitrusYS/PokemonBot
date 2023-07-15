@@ -1,0 +1,26 @@
+{
+  "name": "pokemonbot",
+  "version": "0.0.1",
+  "description": "Bot for Pokemon Nuzlockes",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitrusYS/PokemonBot.git"
+  },
+  "author": "Vitrus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitrusYS/PokemonBot/issues"
+  },
+  "homepage": "https://github.com/VitrusYS/PokemonBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.48",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
