@@ -26,8 +26,7 @@ And that's it! Your bot should now be up and running on your Discord server.
 The Pokemon Nuzlocke Discord Bot has a few commands that you can use to assist with running your Nuzlocke challenge. Here are the available commands:
 
 
-##Nothing
-Because I'm still on it...
+> Nothing yet, hopefully more soon
 - `/ping` - To get your and the Bots latency
 
 
