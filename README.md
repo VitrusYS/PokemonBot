@@ -28,7 +28,7 @@ Once you have these things set up, you can follow these steps to get the bot up 
 
 1. Clone this repository to your local machine
 2. Open the repository in your preferred code editor
-3. Change the `.envtemplate` file to `.env`
+3. Rename the `.envtemplate` file to `.env`
 4. In the `.env` file, add your bot token and all needed ID's
 5. In your terminal, navigate to the repository and run `npm install`
 6. Run `npm run start` to start the bot
