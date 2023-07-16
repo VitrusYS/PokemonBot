@@ -22,9 +22,8 @@ module.exports = {
         let tempMessage = ``
         const pokemon1 = interaction.options.getString('pokemon1')
         const pokemon2 = interaction.options.getString('pokemon2')
-        tempMessage += combineNames(pokemon1, pokemon2)
-        tempMessage += "\n\n"+combineNames(pokemon2, pokemon1)
 
+        tempMessage += '**' + pokemon1 + ' + ' + pokemon2 + '**\n\n```' + combineNames(pokemon1, pokemon2) + '```\n**' + pokemon2 + ' + ' + pokemon1 + '**\n\n```' + combineNames(pokemon2, pokemon1)+'```'
 
         await interaction.reply({
             content: tempMessage,
@@ -36,24 +35,24 @@ module.exports = {
 /**
  * Helper func
  *
- * Iterates over name1 and name2
+ * Iterates over name1 and name2+
  * Adds letters to name2 until complete, adds 1 more to name1, then repeat
  *
  * name1 = Hello
  * name2 = World
  *
- * HW - HWo - HWor - HWorl - HWorld
- * HeW - HeWo - HeWor - HeWorl - HeWorld
+ * HWorld - Horld - Hrld - Hld - Hd
+ * HeWorld - Heorld - Herld - Held - Hed
  * ...
  *
- * @param name1 First Pokemon Name
- * @param name2 Second Pokemon Name
+ * @param name1 First Pokémon Name
+ * @param name2 Second Pokémon Name
  */
 function combineNames(name1, name2) {
     let tempArr = []
     for (let i = 0; i < name1.length; i++) {
         for (let j = 0; j < name2.length; j++) {
-            let tempString = name1.slice(0, i + 1) + name2.slice(0, j + 1);
+            let tempString = name1.slice(0, i + 1) + name2.slice(j, name2.length);
             //Removes spaces
             tempArr.push(tempString.replace(/\s/g, ''));
         }
@@ -69,6 +68,4 @@ function combineNames(name1, name2) {
 
     return res
 }
-
-
 

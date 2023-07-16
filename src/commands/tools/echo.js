@@ -14,12 +14,12 @@ module.exports = {
             .setName('isrude')
             .setDescription('Should the message be rude?')),
 
-    async execute(interaction, client) {
-        var newMessage = `${interaction.options.getString('echomessage')}`
+    async execute(interaction) {
+        let newMessage = `${interaction.options.getString('echomessage')}`;
         if (interaction.options.getBoolean('isrude')){
-            var res = ""
-            for (i=0; i < newMessage.length; i++) {
-                res += i % 2 == 0 ? newMessage.charAt(i).toUpperCase() : newMessage.charAt(i).toLowerCase();
+            let res = "";
+            for (let i=0; i < newMessage.length; i++) {
+                res += i % 2 === 0 ? newMessage.charAt(i).toUpperCase() : newMessage.charAt(i).toLowerCase();
             }
             newMessage = res + ' ... bitch.';
         }
