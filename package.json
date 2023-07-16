@@ -4,7 +4,8 @@
   "description": "Bot for Pokemon Nuzlockes",
   "main": "src/bot.js",
   "scripts": {
-    "test": "node ."
+    "test": "node .",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
