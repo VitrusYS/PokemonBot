@@ -5,7 +5,7 @@ module.exports = {
     },
 
     logToConsole: function (date, message) {
-        console.log(this.createLogString(date, message));
+        console.log(`[${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}]: ${message}`);
     }
 
 }
