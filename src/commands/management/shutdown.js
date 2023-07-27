@@ -1,6 +1,6 @@
 const {SlashCommandBuilder} = require('discord.js');
 const {adminId, devRoleId} = process.env
-const {createLogString, logToConsole} = require('../../misc/log.js');
+const {logToConsole} = require('../../misc/log.js');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -9,7 +9,7 @@ module.exports = {
     async execute(interaction, client) {
 
         if (interaction.user.id === adminId || interaction.member.roles.cache.find(r => r.id === devRoleId)) {
-            const newMessage = createLogString(interaction.createdAt, 'Shutting down...');
+            const newMessage = 'Shutting down...';
 
             await interaction.reply({
                 content: newMessage
@@ -19,9 +19,9 @@ module.exports = {
             client.destroy();
 
         } else {
-            logToConsole(interaction.createdAt, `${interaction.user.username} tried to stop the bot`)
             const newMessage = `You have no permission to use that Command.`
 
+            logToConsole(interaction.createdAt, `${interaction.user.username} tried to stop the bot, had no permission.`)
             await interaction.reply({
                 content: newMessage,
                 ephemeral: true

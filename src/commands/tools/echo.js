@@ -1,4 +1,5 @@
-const { SlashCommandBuilder } = require('discord.js');
+const {SlashCommandBuilder} = require('discord.js');
+const {commandLogToConsole} = require('../../misc/log.js');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -23,6 +24,7 @@ module.exports = {
             }
             newMessage = res + ' ... bitch.';
         }
+        commandLogToConsole(interaction.createdAt, "Echo", interaction.user.username)
         await interaction.reply({
             content: newMessage
         });

@@ -4,11 +4,13 @@ Welcome to the Pokémon Nuzlocke Discord Bot! This bot is designed to assist you
 
 ## TO-DOs
 
-- [ ] Format /namegen properly 
+- [x] Format /namegen properly
+- [ ] Optimise import for logging?
 - [ ] Adjust this freaking readme properly, so it's easy to read
-- [ ] Make bot executeable on pi
+- [x] Make bot executeable on pi<span style="color: rgba(100, 100, 100, 255);"> (was already done duh)</span>
 - [ ] [Fix setWelcomeChannel.js // dotenv populate](https://github.com/VitrusYS/PokemonBot/issues/1#issue-1806148335)
 - [ ] Simple example Pokémon data embeds
+- [ ] Simple example Trainer data embeds
 - [ ] Build a proper Pokémon embed (bonus points if it looks good)
 - [ ] Use [PokéAPI](https://github.com/PokeAPI/pokedex-promise-v2) for some data
 - [ ] Parse common rom hack documents to extract data

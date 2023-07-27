@@ -1,4 +1,5 @@
 const {SlashCommandBuilder} = require('discord.js');
+const {commandLogToConsole} = require("../../misc/log");
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -14,20 +15,21 @@ module.exports = {
                 .setName('pokemon2')
                 .setDescription('Name of the Second Pokemon')
                 .setRequired(true))
-        .addBooleanOption( option =>
-        option
-            .setName('hidemessage')
-            .setDescription('true = message will be only visible to you')),
+        .addBooleanOption(option =>
+            option
+                .setName('showmessage')
+                .setDescription('true = message will be visible to everyone')),
     async execute(interaction) {
         let tempMessage = ``
         const pokemon1 = interaction.options.getString('pokemon1')
         const pokemon2 = interaction.options.getString('pokemon2')
 
-        tempMessage += '**' + pokemon1 + ' + ' + pokemon2 + '**\n\n```' + combineNames(pokemon1, pokemon2) + '```\n**' + pokemon2 + ' + ' + pokemon1 + '**\n\n```' + combineNames(pokemon2, pokemon1)+'```'
+        tempMessage += '```' + combineNames(pokemon1, pokemon2) + '\n' + combineNames(pokemon2, pokemon1) + '```'
 
+        commandLogToConsole(interaction.createdAt, "Echo", interaction.user.username)
         await interaction.reply({
             content: tempMessage,
-            ephemeral: interaction.options.getBoolean('hidemessage')
+            ephemeral: !interaction.options.getBoolean('showmessage')
         });
     }
 }
@@ -50,16 +52,25 @@ module.exports = {
  */
 function combineNames(name1, name2) {
     let tempArr = []
-    for (let i = 0; i < name1.length; i++) {
+    tempArr.push("╔════════" + name1 + " + " + name2 + "════════")
+    for (let i = 1; i < name1.length; i++) {
         for (let j = 0; j < name2.length; j++) {
-            let tempString = name1.slice(0, i + 1) + name2.slice(j, name2.length);
+            let tempString = name1.slice(0, i) + name2.slice(j, name2.length)
             //Removes spaces
-            tempArr.push(tempString.replace(/\s/g, ''));
+            tempArr.push("╟" + tempString.replace(/\s/g, ''))
         }
     }
+
+    let bottomText = "╚"
+    for (let i = 0; i < tempArr[0].length - 1; i++) {
+        bottomText += "═"
+    }
+    tempArr.push(bottomText)
+
     let uniqueChars = tempArr.filter((element, index) => {
-        return tempArr.indexOf(element) === index;
+        return tempArr.indexOf(element) === index
     });
+
 
     let res = ""
     for (let i = 0; i < uniqueChars.length; i++) {
