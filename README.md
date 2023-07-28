@@ -4,6 +4,12 @@ Welcome to the Pokémon Nuzlocke Discord Bot! This bot is designed to assist you
 
 ## TO-DOs
 
+  **Currently Working on:**
+ <br>-> Parse BLack 2 Pokemon Changes
+ -> Make an Embed For Pokemon
+ -> Use PokeAPI for Pokemon Data 
+  
+
 - [x] Format /namegen properly
 - [ ] Optimise import for logging?
 - [ ] Adjust this freaking readme properly, so it's easy to read
