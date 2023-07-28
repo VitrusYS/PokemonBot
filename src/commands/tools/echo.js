@@ -24,7 +24,7 @@ module.exports = {
             }
             newMessage = res + ' ... bitch.';
         }
-        commandLogToConsole(interaction.createdAt, "Echo", interaction.user.username)
+        commandLogToConsole(interaction.createdAt, "/echo", interaction.user.username)
         await interaction.reply({
             content: newMessage
         });

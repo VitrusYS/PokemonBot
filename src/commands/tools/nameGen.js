@@ -26,7 +26,7 @@ module.exports = {
 
         tempMessage += '```' + combineNames(pokemon1, pokemon2) + '\n' + combineNames(pokemon2, pokemon1) + '```'
 
-        commandLogToConsole(interaction.createdAt, "Echo", interaction.user.username)
+        commandLogToConsole(interaction.createdAt, "/namegen", interaction.user.username)
         await interaction.reply({
             content: tempMessage,
             ephemeral: !interaction.options.getBoolean('showmessage')
