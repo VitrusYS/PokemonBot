@@ -1,0 +1,1165 @@
+~~~~~ Victory Road - N's Castle, Entrance ~~~~~
+
+Cave, Normal: Cave, Dust Cloud:
+---------------------------------------- ----------------------------------------
+Rhydon Lv. 68 20%                        Steelix Lv. 68 40%
+Druddigon Lv. 68 20%                     Excadrill Lv. 68 30%
+Zweilous Lv. 66 10%                      Excadrill Lv. 67 20%
+Durant Lv. 68 10%                        Excadrill Lv. 69 10%
+Heatmor Lv. 68 10%
+Fraxure Lv. 66 10%
+Magmar Lv. 67 05%
+Electabuzz Lv. 67 05%
+Donphan Lv. 68 05%
+Ursaring Lv. 78 05%
+
+
+
+
+
+~~~~~ Route 8, Moor of Icirrus - All Seasons ~~~~~
+
+Swamps, Normal:
+----------------------------------------
+Palpitoad Lv. 64 20%
+Palpitoad Lv. 65 20%
+Quagsire Lv. 66 10%
+Stunfisk Lv. 66 10%
+Karrablast Lv. 63 10%
+Shelmet Lv. 63 10%
+Karrablast Lv. 64 05%
+Shelmet Lv. 64 05%
+Toxicroak Lv. 65 04%
+Gastrodon-W Lv. 65 04%
+Toxicroak Lv. 66 01%
+Gastrodon-W Lv. 66 01%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Stunfisk Lv. 50 60%                      Stunfisk Lv. 60-70 65%
+Stunfisk Lv. 55-65 30%                   Gastrodon-W Lv. 60-70 30%
+Gastrodon-W Lv. 55-65 05%                Seismitoad Lv. 60-70 05%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Barboach Lv. 35-55 60%                   Barboach Lv. 45-65 60%
+Stunfisk Lv. 45-55 30%                   Stunfisk Lv. 60-70 30%
+Whiscash Lv. 55-65 10%                   Whiscash Lv. 60-70 10%
+
+
+
+
+
+~~~~~ Icirrus City - All Seasons ~~~~~
+
+Swamps, Normal:
+----------------------------------------
+Palpitoad Lv. 63 20%
+Palpitoad Lv. 65 20%
+Quagsire Lv. 64 10%
+Quagsire Lv. 66 10%
+Quagsire Lv. 65 10%
+Quagsire Lv. 67 10%
+Gastrodon-W Lv. 64 05%
+Gastrodon-W Lv. 65 05%
+Gastrodon-W Lv. 66 04%
+Gastrodon-W Lv. 67 04%
+Gastrodon-W Lv. 68 01%
+Gastrodon-W Lv. 63 01%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Stunfisk Lv. 45-55 60%                   Stunfisk Lv. 60-70 65%
+Stunfisk Lv. 55-65 35%                   Gastrodon-W Lv. 60-70 30%
+Gastrodon-W Lv. 55-65 05%                Seismitoad Lv. 60-70 10%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Barboach Lv. 35-55 60%                   Barboach Lv. 50-60 60%
+Stunfisk Lv. 45-55 30%                   Stunfisk Lv. 60-70 30%
+Whiscash Lv. 60 10%                      Whiscash Lv. 60-70 10%
+
+
+
+
+
+~~~~~ Dragonspiral Tower - Spring/Summer/Autumn ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Tranquill Lv. 63 20%                     Tranquill Lv. 67 20%
+Tranquill Lv. 64 20%                     Tranquill Lv. 68 20%
+Mienshao Lv. 65 10%                      Mienshao Lv. 68 10%
+Sawsbuck Lv. 65 10%                      Sawsbuck Lv. 68 10%
+Sawsbuck Lv. 66 10%                      Sawsbuck Lv. 69 10%
+Druddigon Lv. 65 10%                     Druddigon Lv. 69 10%
+Mienshao Lv. 66 10%                      Mienshao Lv. 69 10%
+Kadabra Lv. 64 04%                       Kadabra Lv. 67 04%
+Altaria Lv. 65 04%                       Altaria Lv. 68 04%
+Kadabra Lv. 65 01%                       Kadabra Lv. 68 01%
+Altaria Lv. 66 01%                       Altaria Lv. 69 01%
+
+Grass, Shaking Spots:
+----------------------------------------
+Audino Lv. 65 50%
+Audino Lv. 66 30%
+Emolga Lv. 65 10%
+Alakazam Lv. 68 05%
+Unfezant Lv. 68 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Basculin-R Lv. 40-60 60%                 Basculin-B Lv. 55-65 66%
+Basculin-R Lv. 45-65 35%                 Lapras Lv. 60-70 30%
+Lapras Lv. 55-65 05%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Dratini Lv. 50-56 60%                    Dragonair Lv. 60-70 65%
+Basculin-R Lv. 51-57 30%                 Basculin-B Lv. 60-70 30%
+Dragonair Lv. 50-60 10%                  Dragonite Lv. 65-75 05%
+
+
+
+
+
+~~~~~ Dragonspiral Tower - Winter ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Vanillish Lv. 63 20%                     Vanillish Lv. 67 20%
+Vanillish Lv. 64 20%                     Vanillish Lv. 68 20%
+Mienshao Lv. 65 10%                      Mienshao Lv. 68 10%
+Sawsbuck Lv. 65 10%                      Sawsbuck Lv. 68 10%
+Sawsbuck Lv. 66 10%                      Sawsbuck Lv. 69 10%
+Beartic Lv. 66 10%                       Beartic Lv. 69 10%
+Mienshao Lv. 66 10%                      Mienshao Lv. 69 05%
+Kadabra Lv. 64 04%                       Kadabra Lv. 67 05%
+Altaria Lv. 65 04%                       Altaria Lv. 68 05%
+Kadabra Lv. 65 01%                       Kadabra Lv. 68 04%
+Altaria Lv. 66 01%                       Altaria Lv. 69 01%
+
+Grass, Shaking Spots:
+----------------------------------------
+Audino Lv. 65 50%
+Audino Lv. 66 26%
+Emolga Lv. 65 10%
+Alakazam Lv. 68 05%
+Vanilluxe Lv. 68 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Basculin-R Lv. 40-60 60%                 Basculin-B Lv. 55-65 70%
+Basculin-R Lv. 45-65 35%                 Lapras Lv. 60-70 30%
+Lapras Lv. 55-65 05%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Dratini Lv. 50-56 60%                    Dragonair Lv. 60-70 65%
+Basculin-R Lv. 51-57 30%                 Basculin-B Lv. 60-70 30%
+Dragonair Lv. 50-60 10%                  Dragonite Lv. 65-75 05%
+
+
+
+
+
+~~~~~ Dragonspiral Tower - Indoors ~~~~~
+
+Floor, First Room, Normal:               Floor, Second Room, Normal:
+---------------------------------------- ----------------------------------------
+Golett Lv. 62 20%                        Golurk Lv. 67 20%
+Golett Lv. 63 20%                        Golurk Lv. 68 20%
+Golurk Lv. 66 10%                        Mienshao Lv. 67 10%
+Golurk Lv. 67 10%                        Mienshao Lv. 68 10%
+Druddigon Lv. 66 10%                     Bronzong Lv. 67 10%
+Druddigon Lv. 67 10%                     Bronzong Lv. 68 10%
+Mienshao Lv. 67 10%                      Druddigon Lv. 68 10%
+Bronzong Lv. 66 05%                      Druddigon Lv. 67 05%
+Bronzong Lv. 67 05%                      Druddigon Lv. 69 05%
+
+Roof, Event Encounter:
+----------------------------------------
+Reshiram Lv. 75 W2 --%
+Zekrom Lv. 75 B2 --%
+
+
+
+
+
+~~~~~ Twist Mountain - All Seasons ~~~~~
+
+Cave, Normal:                            Cave, Dust Cloud:
+---------------------------------------- ----------------------------------------
+Boldore Lv. 66 20%                       Excadrill Lv. 68 60%
+Woobat Lv. 62 20%                        Excadrill Lv. 69 30%
+Donphan Lv. 68 10%                       Excadrill Lv. 70 10%
+Ursaring Lv. 68 10%
+Heatmor Lv. 68 10%
+Durant Lv. 68 10%
+Graveler Lv. 66 05%
+Golbat Lv. 66 05%
+Azumarill Lv. 68 04%
+Onix Lv. 66 04%
+Azumarill Lv. 69 01%
+Onix Lv. 68 01%
+Cave, Ice Room, Normal:                  Cave, Ice Room, Dust Cloud:
+---------------------------------------- ----------------------------------------
+Cryogonal Lv. 68 20%                     Steelix Lv. 68 60%
+Cryogonal Lv. 69 20%                     Steelix Lv. 69 30%
+Beartic Lv. 69 10%                       Steelix Lv. 70 10%
+Ursaring Lv. 69 10%
+Glalie Lv. 68 10%
+Glalie Lv. 69 10%
+Boldore Lv. 66 05%
+Vanillish Lv. 66 05%
+Beartic Lv. 70 05%
+Vanillish Lv. 68 05%
+
+
+
+
+
+~~~~~ Underground Ruins - All Areas ~~~~~
+
+Cave, Normal:                            Cave, Dust Cloud:
+---------------------------------------- ----------------------------------------
+Graveler Lv. 66 20%                      Excadrill Lv. 69 75%
+Golbat Lv. 66 20%                        Onix Lv. 67 20%
+Sandslash Lv. 67 10%                     Steelix Lv. 70 05%
+Lairon Lv. 66 10%
+Durant Lv. 68 10%
+Nosepass Lv. 67 10%
+Lunatone Lv. 68 05%
+Solrock Lv. 68 05%
+Claydol Lv. 67 04%
+Dusclops Lv. 67 04%
+Claydol Lv. 69 01%
+Dusclops Lv. 69 01%
+
+Cave, Regi Rooms, Normal:                Cave, Regi Rooms, Dust Cloud:
+---------------------------------------- ----------------------------------------
+Graveler Lv. 67 20%                      Excadrill Lv. 70 75%
+Golbat Lv. 67 20%                        Onix Lv. 68 20%
+Sandslash Lv. 68 10%                     Steelix Lv. 70 05%
+Lairon Lv. 67 10%
+Durant Lv. 69 10%
+Nosepass Lv. 68 10%
+Lunatone Lv. 70 05%
+Solrock Lv. 70 05%
+Claydol Lv. 68 08%
+Claydol Lv. 69 01%
+Claydol Lv. 70 01%
+
+
+
+
+
+~~~~~ Marvellous Bridge ~~~~~
+
+Bridge, Dark Spots:
+----------------------------------------
+Swanna Lv. 68 40%
+Pelipper Lv. 68 10%
+Fearow Lv. 68 10%
+Skiploom Lv. 66 10%
+Pidgeotto Lv. 66 10%
+Farfetch'd Lv. 67 09%
+Chatot Lv. 67 09%
+Swanna Lv. 70 01%
+Pelipper Lv. 70 01%
+
+
+
+
+
+~~~~~ Route 15 ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Sandslash Lv. 65 20%                     Sandslash Lv. 69 20%
+Gligar Lv. 64 20%                        Gligar Lv. 68 20%
+Sawk Lv. 66 10%                          Sawk Lv. 70 10%
+Throh Lv. 66 10%                         Throh Lv. 70 10%
+Scrafty Lv. 66 10%                       Scrafty Lv. 70 10%
+Pupitar Lv. 64 10%                       Pupitar Lv. 68 10%
+Skarmory Lv. 65 05%                      Skarmory Lv. 69 05%
+Fearow Lv. 66 05%                        Fearow Lv. 68 05%
+Primeape Lv. 65 04%                      Primeape Lv. 68 04%
+Munchlax Lv. 62 04%                      Munchlax Lv. 65 04%
+Primeape Lv. 66 01%                      Primeape Lv. 69 01%
+Munchlax Lv. 63 01%                      Munchlax Lv. 66 01%
+
+Grass, Shaking Spots:
+----------------------------------------
+Audino Lv. 65 50%
+Audino Lv. 66 25%
+Emolga Lv. 65 10%
+Snorlax Lv. 68 05%
+Tyranitar Lv. 68 05%
+Gliscor Lv. 68 05%
+
+
+
+
+
+~~~~~ Pinwheel Forest - Inside ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Swadloon Lv. 64 20%                      Swadloon Lv. 68 20%
+Whirlipede Lv. 64 20%                    Whiripede Lv. 68 20%
+Exeggcute Lv. 61 10%                     Heracross Lv. 69 10%
+Shroomish Lv. 61 10%                     Pinsir Lv. 69 10%
+Gloom Lv. 65 10%                         Scyther Lv. 69 10%
+Weepinbell Lv. 65 10%                    Parasect Lv. 69 10%
+Carnivine Lv. 66 05%                     Murkrow Lv. 68 05%
+Roselia Lv. 65 05%                       Misdreavus Lv. 68 05%
+Vigoroth Lv. 65 04%                      Vigoroth Lv. 68 04%
+Pikachu Lv. 61 04%                       Venomoth Lv. 68 04%
+Vigoroth Lv. 66 01%                      Vigoroth Lv. 69 01%
+Pikachu Lv. 62 01%                       Venomoth Lv. 69 01%
+
+Grass, Shaking Spots:                    Hidden Grotto:
+---------------------------------------- ----------------------------------------
+Audino Lv. 65 50%                        Search 'Hidden Grotto Guide' - (End of Document)
+Simisage Lv. 68 10%
+Simisear Lv. 68 10%
+Simipour Lv. 68 10%
+Scizor Lv. 68 05%
+Slaking Lv. 68 05%
+Raichu Lv. 68 05%
+Scolipede Lv. 68 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Marill Lv. 50-60 60%                     Marill Lv. 55-65 60%
+Basculin-B Lv. 50-60 30%                 Basculin-R Lv. 60-70 30%
+Azumarill Lv. 55-65 10%                  Azumarill Lv. 60-70 10%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Goldeen Lv. 50-60 65%                    Goldeen Lv. 55-65 60%
+Basculin-B Lv. 50-60 30%                 Basculin-R Lv. 60-70 30%
+Seaking Lv. 55-65 05%                    Seaking Lv. 60-70 10%
+
+
+
+
+
+~~~~~ Pinwheel Forest - Outside ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Gurdurr Lv. 64 20%                       Ariados Lv. 68 20%
+Palpitoad Lv. 64 20%                     Ledian Lv. 68 20%
+Throh Lv. 66 10%                         Wormadam Lv. 68 10%
+Sawk Lv. 66 10%                          Mothim Lv. 68 10%
+Ariados Lv. 65 10%                       Gurdurr Lv. 67 10%
+Ledian Lv. 65 10%                        Palpitoad Lv. 67 10%
+Medicham Lv. 66 05%                      Throh Lv. 69 05%
+Machoke Lv. 65 05%                       Sawk Lv. 69 05%
+Toxicroak Lv. 66 04%                     Hariyama Lv. 69 04%
+Yanma Lv. 65 04%                         Medicham Lv. 69 04%
+Toxicroak Lv. 67 01%                     Hariyama Lv. 70 01%
+Yanma Lv. 66 01%                         Medicham Lv. 70 01%
+
+Grass, Shaking Spots:                    Hidden Grotto:
+---------------------------------------- ----------------------------------------
+Audino Lv. 65 60%                        Search 'Hidden Grotto Guide' - (End of Document)
+Audino Lv. 68 30%
+Seismitoad Lv. 68 05%
+Yanmega Lv. 68 05%
+
+
+
+
+
+~~~~~ Route 3 ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Herdier Lv. 65 20%                       Herdier Lv. 69 20%
+Tranquill Lv. 64 20%                     Tranquill Lv. 68 20%
+Zebstrika Lv. 66 10%                     Zebstrika Lv. 70 10%
+Liepard Lv. 66 10%                       Liepard Lv. 70 10%
+Watchog Lv. 66 10%                       Watchog Lv. 70 10%
+Yanma Lv. 64 10%                         Yanma Lv. 69 10%
+Flaaffy Lv. 64 05%                       Flaaffy Lv. 69 05%
+Growlithe Lv. 61 05%                     Growlithe Lv. 66 05%
+Nuzleaf Lv. 65 05%                       Nuzleaf Lv. 69 05%
+Lombre Lv. 65 05%                        Lombre Lv. 69 05%
+
+Grass, Shaking Spots:                    Hidden Grottos:
+---------------------------------------- ----------------------------------------
+Audino Lv. 65 50%                        Search 'Hidden Grotto Guide' - (End of Document)
+Audino Lv. 66 10%
+Audino Lv. 67 10%
+Audino Lv. 68 10%
+Yanmega Lv. 68 05%
+Ludicolo Lv. 68 05%
+Shiftry Lv. 68 05%
+Arcanine Lv. 68 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Lotad Lv. 50-60 60%                      Lotad Lv. 55-65 60%
+Basculin-B Lv. 50-60 30%                 Basculin-R Lv. 60-70 30%
+Lombre Lv. 55-65 10%                     Lombre Lv. 60-70 10%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Corphish Lv. 50-60 65%                   Corphish Lv. 55-65 60%
+Basculin-B Lv. 50-60 30%                 Basculin-R Lv. 65 30%
+Crawdaunt Lv. 55-65 05%                  Crawdaunt Lv. 60-70 10%
+
+
+
+
+
+~~~~~ Wellspring Cave - Both Floors ~~~~~
+
+Cave, Normal:                            Cave, Dust Cloud:
+---------------------------------------- ----------------------------------------
+Boldore Lv. 66 20%                       Dugtrio Lv. 70 40%
+Swoobat Lv. 68 20%                       Excadrill Lv. 70 40%
+Boldore Lv. 67 10%                       Onix Lv. 68 20%
+Swoobat Lv. 69 10%
+Boldore Lv. 68 10%
+Swoobat Lv. 70 10%
+Golbat Lv. 66 05%
+Loudred Lv. 66 05%
+Golbat Lv. 67 04%
+Loudred Lv. 67 04%
+Golbat Lv. 68 01%
+Loudred Lv. 68 01%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Wooper Lv. 45-55 60%                     Wooper Lv. 55-65 60%
+Basculin-B Lv. 55-65 30%                 Basculin-R Lv. 60-70 35%
+Quagsire Lv. 55-65 10%                   Quagsire Lv. 60-70 05%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Barboach Lv. 50-60 60%                   Shellder Lv. 65 60%
+Shellder Lv. 50-60 30%                   Whiscash Lv. 65-75 35%
+Whiscash Lv. 55-65 10%                   Cloyster Lv. 65-75 05%
+
+
+
+
+
+~~~~~ Striation City ~~~~~
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Basculin-B Lv. 35-65 70%                 Basculin-R Lv. 55-75 90%
+Corphish Lv. 35-65 30%                   Crawdaunt Lv. 55-75 10%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Goldeen Lv. 35-55 95%                    Psyduck Lv. 50-60 70%
+Psyduck Lv. 35-55 05%                    Seaking Lv. 60-70 30%
+
+
+
+
+
+~~~~~ Dreamyard - All Areas ~~~~~
+
+Grass, Surface, Normal                   Grass, Surface, Doubles:
+---------------------------------------- ----------------------------------------
+Watchog Lv. 66 20%                       Watchog Lv. 70 20%
+Liepard Lv. 66 20%                       Munna Lv. 66 20%
+Munna Lv. 62 10%                         Liepard Lv. 70 10%
+Munna Lv. 63 10%                         Raticate Lv. 70 10%
+Raticate Lv. 66 10%                      Hypno Lv. 70 10%
+Jigglypuff Lv. 62 10%                    Jigglypuff Lv. 66 10%
+Venomoth Lv. 66 05%                      Ledian Lv. 69 05%
+Ledian Lv. 65 05%                        Ariados Lv. 69 05%
+Ariados Lv. 65 05%                       Venomoth Lv. 70 05%
+Hypno Lv. 66 05%                         Munna Lv. 67 05%
+
+Grass, Shaking Spots:
+----------------------------------------
+Audino Lv. 65 50%
+Audino Lv. 66 30%
+Dunsparce Lv. 65 10%
+Wigglytuff Lv. 68 05%
+Musharna Lv. 68 05%
+
+Grass, Basement, Doubles:
+----------------------------------------
+Raticate Lv. 70 20%
+Golbat Lv. 69 20%
+Munna Lv. 65 10%
+Munna Lv. 66 10%
+Venomoth Lv. 70 10%
+Kirlia Lv. 66 10%
+Liepard Lv. 70 05%
+Persian Lv. 70 05%
+Lunatone Lv. 69 05%
+Solrock Lv. 69 05%
+
+
+
+
+
+~~~~~ Route 2 ~~~~~
+
+Grass, Normal:
+----------------------------------------
+Watchog Lv. 65 20%
+Herdier Lv. 64 20%
+Liepard Lv. 65 10%
+Liepard Lv. 66 10%
+Mightyena Lv. 66 10%
+Primeape Lv. 66 10%
+Beautifly Lv. 65 05%
+Dustox Lv. 65 05%
+Butterfree Lv. 65 05%
+Beedrill Lv. 65 05%
+
+Grass, Shaking Spots:                    Hidden Grotto:
+---------------------------------------- ----------------------------------------
+Audino Lv. 64 50%                        Search 'Hidden Grotto Guide' - (End of Document)
+Audino Lv. 65 30%
+Audino Lv. 66 05%
+Dunsparce Lv. 65 10%
+Stoutland Lv. 68 05%
+
+
+
+
+
+~~~~~ Route 1 ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Lillipup Lv. 60 20%                      Herdier Lv. 70 20%
+Pidgey Lv. 60 20%                        Pidgeotto Lv. 69 20%
+Bidoof Lv. 60 10%                        Bibarel Lv. 70 10%
+Sentret Lv. 60 10%                       Furret Lv. 70 10%
+Patrat Lv. 61 10%                        Watchog Lv. 70 10%
+Zigzagoon Lv. 61 10%                     Linoone Lv. 70 10%
+Starly Lv. 60 10%                        Staravia Lv. 69 10%
+Hoothoot Lv. 60 05%                      Noctowl Lv. 70 05%
+Jigglypuff Lv. 61 05%                    Scrafty Lv. 70 05%
+
+Grass, Shaking Spots:
+----------------------------------------
+Audino Lv. 65 50%
+Audino Lv. 66 20%
+Dunsparce Lv. 65 10%
+Pidgeot Lv. 68 05%
+Stoutland Lv. 68 05%
+Staraptor Lv. 68 05%
+Wigglytuff Lv. 68 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Basculin-B Lv. 55 70%                    Basculin-R Lv. 45-60 66%
+Basculin-B Lv. 65 30%                    Basculin-R Lv. 50-60 30%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Basculin-R Lv. 55 60%                    Feebas Lv. 55-65 65%
+Feebas Lv. 40-60 30%                     Basculin-B Lv. 65 30%
+Basculin-R Lv. 60-70 10%                 Milotic Lv. 65-75 05%
+
+
+
+
+
+~~~~~ Route 17 ~~~~~
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Frillish Lv. 45-55 60%                   Phione Lv. 60-70 65%
+Mantyke Lv. 45-55 30%                    Mantine Lv. 60-70 30%
+Phione Lv. 55-65 10%                     Jellicent Lv. 65-75 05%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Finneon Lv. 50-60 70%                    Seadra Lv. 65 60%
+Seadra Lv. 55-65 30%                     Qwilfish Lv. 65 30%
+Lumineon Lv. 65-75 05%
+Kingdra Lv. 65-75 05%
+
+
+
+
+
+~~~~~ Route 18 ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Scrafty Lv. 66 20%                       Scrafty Lv. 72 20%
+Crustle Lv. 65 20%                       Crustle Lv. 72 20%
+Throh Lv. 66 10%                         Throh Lv. 71 10%
+Sawk Lv. 66 10%                          Sawk Lv. 71 10%
+Watchog Lv. 65 10%                       Watchog Lv. 72 10%
+Kangaskhan Lv. 66 10%                    Kangaskhan Lv. 73 10%
+Carnivine Lv. 66 10%                     Carnivine Lv. 72 10%
+Tropius Lv. 67 10%                       Tropius Lv. 73 10%
+
+Grass, Shaking Spots:                    Hidden Grotto:
+---------------------------------------- ----------------------------------------
+Audino Lv. 65 50%                        Search 'Hidden Grotto Guide' - (End of Document)
+Audino Lv. 66 30%
+Audino Lv. 67 10%
+Dunsparce Lv. 66 10%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Frillish Lv. 55 60%                      Alomomola Lv. 65 60%
+Tentacool Lv. 55 30%                     Tentacruel Lv. 65 30%
+Tentacruel Lv. 65 10%                    Jellicent Lv. 65 10%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Finneon Lv. 55 65%                       Lumineon Lv. 55-75 60%
+Chinchou Lv. 55 30%                      Qwilfish Lv. 55-75 30%
+Seadra Lv. 60 05%                        Kingdra Lv. 55-75 10%
+Lanturn Lv. 55-75 05%
+
+
+
+
+
+~~~~~ P2 Laboratory ~~~~~
+
+Grass, Normal:
+----------------------------------------
+Watchog Lv. 65 22%
+Herdier Lv. 66 20%
+Weezing Lv. 66 10%
+Magneton Lv. 65 10%
+Klang Lv. 64 10%
+Scrafty Lv. 66 10%
+Electrode Lv. 65 10%
+Klink Lv. 63 04%
+Magnemite Lv. 63 04%
+
+Grass, Shaking Spots:
+----------------------------------------
+Audino Lv. 65 50%
+Audino Lv. 66 20%
+Porygon Lv. 63 10%
+Klinklang Lv. 68 05%
+Magnezone Lv. 68 05%
+Stoutland Lv. 68 05%
+Porygon2 Lv. 68 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Frillish Lv. 55 60%                      Alomomola Lv. 65 60%
+Tentacool Lv. 55 30%                     Tentacruel Lv. 65 30%
+Tentacruel Lv. 65 10%                    Jellicent Lv. 65 10%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Finneon Lv. 55 65%                       Lumineon Lv. 65 60%
+Chinchou Lv. 55 30%                      Qwilfish Lv. 65 30%
+Seadra Lv. 60 05%                        Kingdra Lv. 65 10%
+Lanturn Lv. 65 05%
+
+
+
+
+
+~~~~~ The Nature Preserve ~~~~~
+
+Grass, Normal:                           Grass, Doubles:
+---------------------------------------- ----------------------------------------
+Servine Lv. 17-100 20%                   Eevee Lv. 01-100 20%
+Pignite Lv. 17-100 20%                   Leafeon Lv. 02-100 20%
+Dewott Lv. 17-100 20%                    Vaporeon Lv. 01-100 10%
+Chansey Lv. 01-100 20%                   Jolteon Lv. 01-100 10%
+Fraxure Lv. 38-100 05%                   Flareon Lv. 01-100 10%
+Kecleon Lv. 01-100 05%                   Umbreon Lv. 02-100 10%
+Girafarig Lv. 01-100 05%                 Espeon Lv. 02-100 10%
+Nuzleaf Lv. 14-100 05%                   Glaceon Lv. 02-100 10%
+
+Grass, Shaking Spots: Special Event:
+---------------------------------------- ----------------------------------------
+Audino Lv. 1-100 70%                     Arceus (***) Lv. 80 --%
+Dunsparce Lv. 1-100 10%
+Serperior Lv. 36-100 05%
+Samurott Lv. 36-100 05%
+Emboar Lv. 36-100 05%
+Blissey Lv. 2-100 05%
+
+Surf, Normal:                            Surf, Dark Spot:
+---------------------------------------- ----------------------------------------
+Psyduck Lv. 1-100 65%                    Golduck Lv. 1-100 65%
+Dratini Lv. 1-100 30%                    Dragonair Lv. 1-100 30%
+Golduck Lv. 1-100 05%                    Dragonite Lv. 1-100 05%
+
+Fish, Normal:                            Fish, Dark Spot:
+---------------------------------------- ----------------------------------------
+Magikarp Lv. 1-100 95%                   Magikarp Lv. 1-100 60%
+Feebas Lv. 1-100 05%                     Feebas Lv. 1-100 30%
+Gyarados Lv. 1-100 05%
+Milotic Lv. 1-100 05%
+
+
+
+
+
+=========================================================
+Hidden Grotto Guide
+=========================================================
+
+The following is a list of Hidden Grottos and what can be encountered in each one.
+
+
+~~~~~~ Route 5 ~~~~~~
+
+Guaranteed Encounters:
+
+ - When you first make it to Route 5, Bianca will demonstrate the Hidden Grotto mechanic.
+ - You will always encounter a Lv. 30 Stantler here. 
+    - This replaces the overpowered Munchlax from BB2 and VW2 and the fairly useless Minccino of the vanilla games.
+
+Common Encounters:
+
+ - Pachirisu
+ - Liepard
+ - Minccino
+ - Sigilyph
+
+Uncommon Encounters:
+
+ - Nidorina
+ - Nidorino
+ - Gothorita
+ - Duosion
+
+Rare Encounters:
+
+ - Squirtle
+ - Totodile
+ - Stantler
+
+ 
+~~~~~~ Lostlorn Forest ~~~~~~
+
+Common Encounters:
+
+ - Pansage
+ - Pansear
+ - Panpour
+ - Burmy
+
+Uncommon Encounters:
+
+ - Heracross
+ - Pinsir
+ - Goldeen
+ - Exeggcute
+
+Rare Encounters:
+
+ - Bulbasaur
+ - Treecko
+ - Scyther
+
+ 
+~~~~~~ Route 6 - Driftveil Entrance ~~~~~~
+
+Common Encounters:
+
+ - Shroomish
+ - Hoothoot
+ - Natu
+ - Mankey
+
+Uncommon Encounters:
+
+ - Tympole
+ - Mime Jr.
+ - Bonsly
+ - Yanma
+
+Rare Encounters:
+
+ - Snover
+ - Chikorita
+ - Turtwig
+
+ 
+~~~~~~ Route 6 - Mistralton Cave Entrance ~~~~~~
+
+Common Encounters:
+
+ - Rhyhorn
+ - Onix
+ - Whismur
+ - Geodude
+
+Uncommon Encounters:
+
+ - Gurdurr
+ - Aron
+ - Nosepass
+ - Tyrogue
+
+Rare Encounters:
+
+ - Gible
+ - Cyndaquil
+ - Torchic
+ 
+ 
+~~~~~~ Floccesy Ranch ~~~~~~
+
+Common Encounters:
+
+ - Azumarill
+ - Herdier
+ - Quagsire
+ - Swellow
+
+Uncommon Encounters:
+
+ - Zebstrika
+ - Watchog
+ - Dunsparce
+
+Rare Encounters:
+
+ - Ponyta
+ - Houndour
+ - Miltank
+ - Tauros
+ 
+ 
+~~~~~~ Route 7 ~~~~~~
+
+Common Encounters:
+
+ - Swinub
+ - Snorunt 
+ - Phanpy
+ - Aipom
+
+Uncommon Encounters:
+
+ - Cubchoo
+ - Spinda
+ - Zangoose
+ - Seviper
+
+Rare Encounters:
+
+ - Sneasel
+ - Charmander
+ - Chimchar
+ 
+ 
+~~~~~~ Abundant Shrine - Entrance ~~~~~~
+
+Common Encounters:
+
+ - Oddish
+ - Psyduck
+ - Pineco
+ - Swablu
+
+Uncommon Encounters:
+
+ - Qwilfish
+ - Corphish
+ - Budew
+ - Marill
+
+Rare Encounters:
+
+ - Eevee
+ - Slowpoke
+ - Vulpix 
+ - Abra
+
+ 
+~~~~~~ Abundant Shrine - Back Pond near Shrine ~~~~~~
+
+Common Encounters:
+
+ - Swablu
+ - Alomomola
+
+Uncommon Encounters:
+
+ - Corphish
+ - Krabby
+ - Qwilfish
+ - Carvanha
+
+Rare Encounters:
+
+ - Dratini
+ - Poliwag
+ 
+ 
+~~~~~~ Route 13 - Near Cobalion's Grove ~~~~~~
+
+Common Encounters:
+
+ - Hoppip
+ - Zigzagoon
+ - Lunatone
+ - Solrock
+
+Uncommon Encounters:
+
+ - Zubat
+ - Taillow
+ - Luvdisc
+ - Wingull
+
+Rare Encounters:
+
+ - Mudkip
+ - Piplup
+ - Staryu
+
+
+~~~~~~ Route 9 ~~~~~~
+
+Common Encounters:
+
+ - Croagunk
+ - Scraggy
+ - Poochyena
+ - Gulpin
+
+Uncommon Encounters:
+
+ - Bellsprout
+ - Druddigon
+ - Houndour
+ - Grimer
+
+Rare Encounters:
+
+ - Ralts
+ - Magnemite
+ - Golett
+ - Munchlax
+
+ 
+~~~~~~ Route 22 ~~~~~~
+
+Common Encounters:
+
+ - Venonat
+ - Ledyba
+ - Spinarak
+ - Shuckle
+ 
+Uncommon Encounters:
+
+ - Surskit
+ - Skitty
+ - Shelmet
+ - Karrablast
+
+Rare Encounters:
+
+ - Mienfoo
+ - Delibird
+ - Gligar 
+ - Corsola
+ 
+ 
+~~~~~~ Giant Chasm ~~~~~~
+
+Common Encounters:
+
+ - Clefairy 
+ - Absol
+ - Drowzee
+ - Castform
+ 
+Uncommon Encounters:
+
+ - Porygon
+ - Jynx
+ - Buneary
+ - Vanillish
+
+Rare Encounters:
+
+ - Drilbur 
+ - Beldum
+ - Ditto
+ - Roggenrola
+
+ 
+~~~~~~ Route 13 - Outside Giant Chasm ~~~~~~
+
+Common Encounters:
+
+ - Kecleon
+ - Farfetch'd
+ - Shellos-E
+ - Shellos-W
+
+Uncommon Encounters:
+
+ - Seel
+ - Spheal
+ - Snorunt
+ - Horsea
+
+Rare Encounters:
+
+ - Feebas
+ - Drifloon
+ - Togepi
+ - Happiny
+
+ 
+~~~~~~ Route 23 ~~~~~~
+
+Common Encounters:
+
+ - Zangoose
+ - Seviper
+ - Throh
+ - Sawk
+
+Uncommon Encounters:
+
+ - Teddiursa
+ - Tropius
+ - Wooper
+ - Smeargle
+
+Rare Encounters:
+
+ - Glameow
+ - Stunky
+ - Tauros
+ - Gastly
+
+ 
+~~~~~~ Pinwheel Forest - Deep in the Woods ~~~~~~
+
+Common Encounters:
+
+ - Amoonguss 
+ - Murkrow 
+ - Pinsir
+ - Scyther
+
+Uncommon Encounters:
+
+ - Beedrill
+ - Butterfree
+
+Rare Encounters:
+
+ - Breloom
+ - Scolipede
+
+ 
+~~~~~~ Pinwheel Forest - Challenger's Rock ~~~~~~
+
+Common Encounters:
+
+ - Poliwhirl
+ - Hariyama
+ - Medicham
+ - Shelgon
+
+Uncommon Encounters:
+
+ - Wormadam
+ - Mothim
+
+Rare Encounters:
+
+ - Ledian
+ - Ariados
+
+ 
+~~~~~~ Route 3 - In the Dark, Doubles Grass ~~~~~~
+
+Common Encounters:
+
+ - Pachirisu 
+ - Manectric 
+ - Zebstrika 
+ - Luxray
+
+Uncommon Encounters:
+
+ - Lombre
+ - Nuzleaf
+
+Rare Encounters:
+
+ - Ninetales
+ - Arcanine
+
+ 
+~~~~~~ Route 3 - Over the Clear, Blue Pond ~~~~~~
+
+Common Encounters:
+
+ - Bibarel
+ - Venonat
+ - Lombre
+ - Masquerain
+ 
+Uncommon Encounters:
+
+ - Basculin
+ - Lanturn
+ 
+Rare Encounters:
+
+ - Flaaffy 
+ - Mightyena
+
+ 
+~~~~~~ Route 2 ~~~~~~
+
+Common Encounters:
+
+ - Watchog 
+ - Nidorino 
+ - Nidorina 
+ - Granbull
+ 
+Uncommon Encounters:
+
+ - Primeape 
+ - Herdier
+ 
+Rare Encounters:
+
+ - Dunsparce
+ - Kricketune
+
+ 
+~~~~~~ Route 18 ~~~~~~
+
+Common Encounters:
+
+ - Kingler 
+ - Crawdaunt 
+ - Chatot
+ - Dragonite
+ 
+Uncommon Encounters:
+
+ - Feebas 
+ - Crustle
+ 
+Rare Encounters:
+
+ - Galvantula
+ - Maractus
